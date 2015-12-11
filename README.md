@@ -8,6 +8,9 @@ The ultimate list of awesome (and still not) government sites and resources. Ins
 
 - [Awesome Russia](#awesome-russia)
     - [Official sites](#official-sites)
+    - [Services](#services)
+    - [Databases](#databases)
+    - [Law](#law)
 
 
 ## Official sites
