@@ -19,3 +19,20 @@ The ultimate list of awesome (and still not) government sites and resources. Ins
 * [minsvyaz.ru](http://www.minsvyaz.ru/en/) - Ministry of Telecom and Mass Communications of the Russian Federation
 * [mvd.ru] (https://en.mvd.ru) - The ministry of internal affairs of the Russian Federation
 
+## Services
+
+*Service for citizens*
+
+* [Gosuslugi](https://beta.gosuslugi.ru/) - Government Services A.K.A. Gosuslugi
+
+
+## Databases
+*Useful databases*
+
+* [FIAS](http://fias.nalog.ru/) - The Federal Information Address System
+* [Izbirkom](http://www.vybory.izbirkom.ru) - The vote system 
+
+
+## Law
+
+* [PravoGovRu](http://pravo.gov.ru) - The law information portal
